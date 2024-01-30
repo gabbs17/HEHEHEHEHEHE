@@ -41,7 +41,6 @@ const hands = document.getElementById('hands');
 const sadcat = document.getElementById('sadcat');
 const crying = document.getElementById('crying');
 const sadboi = document.getElementById('sadboi');
-const sadhotdog = document.getElementById('sadhotdog');
 const sadman  = document.getElementById('sadman');
 const hahahuhu = document.getElementById('hahahuhu');
 const hang = document.getElementById('hang');
